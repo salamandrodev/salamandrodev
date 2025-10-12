@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, mundo!
 
-<!--
-**salamandrodev/salamandrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Gabriel**, tenho **12 anos** e sou um **DevSecOps Júnior** 🚀  
+Atualmente trabalho como **freelancer** realizando **análises de vulnerabilidades em sites** 🛡️  
 
-Here are some ideas to get you started:
+## 💡 Sobre mim
+- 🧠 Apaixonado por segurança da informação e desenvolvimento seguro  
+- 🔍 Sempre buscando aprender mais sobre DevOps, pentest e automação  
+- 💻 Foco em práticas de segurança para aplicações web  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+Se quiser conversar ou colaborar em algum projeto, fique à vontade para me chamar! 😄
+Discord:salamandro_dev
+youtube:codigo de segurança
+instagram:codigo de segurança
+Whatsapp:91 8478-0320
