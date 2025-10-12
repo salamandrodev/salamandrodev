@@ -5,7 +5,7 @@ Atualmente trabalho como **freelancer** realizando **análises de vulnerabilidad
 
 ## 💡 Sobre mim
 - 🧠 Apaixonado por segurança da informação e desenvolvimento seguro  
-- 🔍 Sempre buscando aprender mais sobre DevOps, pentest e automação  
+- 🔍 Sempre buscando aprender mais sobre DevOps e automação  
 - 💻 Foco em práticas de segurança para aplicações web  
 
 ## 📫 Contato
