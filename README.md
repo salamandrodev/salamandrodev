@@ -1,11 +1,11 @@
 # 👋 Olá, mundo!
 
-Meu nome é **Gabriel**, tenho **12 anos** e sou um **DevSecOps Júnior** 🚀  
+Meu nome é **Gabriel**, tenho **12 anos** e sou um **Pentester Júnior** 🚀  
 Atualmente trabalho como **freelancer** realizando **análises de vulnerabilidades em sites** 🛡️  
 
 ## 💡 Sobre mim
 - 🧠 Apaixonado por segurança da informação e desenvolvimento seguro  
-- 🔍 Sempre buscando aprender mais sobre DevOps e automação  
+- 🔍 Sempre buscando aprender mais sobre Pentester e automação  
 - 💻 Foco em práticas de segurança para aplicações web  
 
 ## 📫 Contato
